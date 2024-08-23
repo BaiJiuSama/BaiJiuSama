@@ -1,6 +1,6 @@
-<p><img align= "right" src="https://github.com/BaiJiu123/BaiJiu123/blob/main/illust_121666568_20240822_233116.jpg" alt="Image" width="300"/></p>
 
-## 👋 你好，我叫白玖，跟高兴见到你!
+
+## <img align= "right" src="https://github.com/BaiJiu123/BaiJiu123/blob/main/illust_121666568_20240822_233116.jpg" alt="Image" width="300"/>👋 你好，我叫白玖，跟高兴见到你!
 
 - 🔭 如你所见，我只是一名平平无奇的学生，妄想着有朝一日能走上顶端
 - 💬 QQ: 2126383941
