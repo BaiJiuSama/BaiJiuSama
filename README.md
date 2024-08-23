@@ -14,10 +14,10 @@
   <img width="12" />
 </div>
 
-## GitHub Stats 
+## My Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaiJiu123&locale=cn&show_icons=true&theme=dark" height="160" alt="stats" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BaiJiu123&locale=cn&show_icons=true&theme=dark" height="160" alt="stats"  />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BaiJiu123&locale=cn&theme=dark" height="160" alt="languages" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BaiJiu123&locale=cn&theme=dark" height="160" alt="languages"  />
 </div>
 
