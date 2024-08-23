@@ -15,10 +15,9 @@
 </div>
 
 ## GitHub Stats 
-<h2>有点惨不忍睹哈...</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaiJiu123&locale=cn&show_icons=true&theme=dark" height="160" alt="stats"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BaiJiu123&locale=cn&show_icons=true&theme=dark" height="160" alt="stats" align="left" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BaiJiu123&locale=cn&theme=dark" height="160" alt="languages"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BaiJiu123&locale=cn&theme=dark" height="160" alt="languages" align="right" />
 </div>
 
