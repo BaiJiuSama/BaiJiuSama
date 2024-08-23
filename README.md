@@ -16,8 +16,8 @@
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaiJiu123&locale=cn&show_icons=true&theme=radical" height="160" alt="stats"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BaiJiu123&locale=cn&show_icons=true&theme=dark" height="160" alt="stats"  />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BaiJiu123&locale=cn&card_width=320&theme=radical" height="160" alt="languages"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BaiJiu123&locale=cn&theme=dark" height="160" alt="languages"  />
 </div>
 
