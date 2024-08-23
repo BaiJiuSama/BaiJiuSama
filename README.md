@@ -1,4 +1,4 @@
-<p><img src="https://github.com/BaiJiu123/BaiJiu123/blob/main/illust_121666568_20240822_233116.jpg" alt="Image"></p>
+<p><img src="https://github.com/BaiJiu123/BaiJiu123/blob/main/illust_121666568_20240822_233116.jpg" alt="Image"/><img width="12" /></p>
 
 ## 👋 你好，我叫白玖，跟高兴见到你!
 
