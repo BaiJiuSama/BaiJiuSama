@@ -7,7 +7,7 @@
 
 
 
-## 我正在学习的语言:
+### 我正在学习的语言:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -16,7 +16,7 @@
   <img width="12" />
 </div>
 
-## My Statistics
+### My Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BaiJiuSama&locale=cn&show_icons=true&theme=dark" height="160" alt="stats"  />
   
