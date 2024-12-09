@@ -1,6 +1,6 @@
 # <img align= "right" src="https://github.com/BaiJiu123/BaiJiu123/blob/main/illust_121666568_20240822_233116.jpg" alt="Image" width="280"/>👋 你好，我叫白玖，跟高兴见到你!
 
-- 🔭 如你所见，我只是一名平平无奇的学生
+- 🔭 很高兴你可以来阅读我的个人简介, 我希望我在未来可以像我所崇拜的人那样伟大
 - 💬 QQ: 2126383941
 
 ### 我正在学习的语言:
@@ -11,7 +11,7 @@
 </div>
 <br>
 
-## My Statistics
+## 统计
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BaiJiuSama&locale=cn&show_icons=true&theme=dark" height="160" alt="stats"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BaiJiuSama&locale=cn&theme=dark" height="160" alt="languages"  />
