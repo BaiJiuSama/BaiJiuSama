@@ -1,6 +1,6 @@
-# <img align= "right" src="https://github.com/BaiJiu123/BaiJiu123/blob/main/illust_121666568_20240822_233116.jpg" alt="Image" width="280"/>👋 你好，我叫白玖，跟高兴见到你!
+# <img align= "right" src="https://github.com/BaiJiu123/BaiJiu123/blob/main/illust_121666568_20240822_233116.jpg" alt="Image" width="280"/>👋 你好，我叫白玖，很高兴见到你!
 
-- 🔭 很高兴你可以来阅读我的个人简介, 我希望我在未来可以像我所崇拜的人那样伟大
+- 🔭 很高兴你可以来阅读我的个人简介, 谢谢, 很感谢你还愿意记得我
 - 💬 QQ: 2126383941
 
 ### 我正在学习的语言:
